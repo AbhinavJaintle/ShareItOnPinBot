@@ -32,11 +32,10 @@ The bot replies with a thread of two tweets:
 
 ### Dependencies
 
- * "ejs": "^3.1.6",
- * "express": "^4.17.1",
- * "nodemon": "^2.0.7",
- * "redis": "^3.1.2",
- * "socket.io": "^3.1.2"
+ * "tweepy": "^4.10.0",
+ * "selenium": "^4.3.0",
+ * "webdriver-manager": "^3.8.1 "
+ 
 
 ### Installing
 
@@ -50,28 +49,14 @@ git clone https://github.com/AbhinavJaintle/letschat
 
 Run:
 ```
-node index.js
+python twitterbot_retweet.py
 ```
 
 
 ## Working Site
 
-Username Page: 
+Go to: https://twitter.com/ShareItOnPin
 
-![alt text](https://i.ibb.co/gMcbJCk/Screenshot-2022-07-12-041906.jpg)
-
-Chat-Room: 
-
-![alt text](https://i.ibb.co/SK1Sv9V/Screenshot-2022-07-12-041944.jpg)
+![Screenshot 2022-07-12 173515](https://user-images.githubusercontent.com/86119205/178485930-ec992588-4fa5-4c21-b3d0-47ca49994f7b.jpg)
 
 
-
-## References
-
-* https://redis.io/
-* https://en.wikipedia.org/wiki/Redis
-* https://aws.amazon.com/redis/
-* https://github.com/redis/redis
-* https://www.freecodecamp.org/news/how-to-learn-redis/
-* https://redis.com/community/oss-projects/
-* https://dev.to/valeriavg/5-ways-to-use-redis-in-your-next-project-1j2o
