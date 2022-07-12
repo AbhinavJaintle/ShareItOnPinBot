@@ -11,7 +11,7 @@ ShareItOnPin is a twitter bot, made by using Tweepy library assisted by Twitter 
 
 ## How to use it?
 
-Go to twitter.com and click on the tweetr you want to save on your board.
+Go to twitter.com and click on the twitter you want to save on your board.
 ![FVoBJW6UEAAKy4D](https://user-images.githubusercontent.com/86119205/178483435-24fed60a-d03d-4ec1-9543-ca7e6164e8c7.jpg)
 
 In the reply to the tweet, mention @ShareItOnPin
