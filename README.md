@@ -42,7 +42,7 @@ The bot replies with a thread of two tweets:
 * Download the repository files and folders
 ```
 cd folder/to/clone-into/
-git clone https://github.com/AbhinavJaintle/letschat
+git clone https://github.com/AbhinavJaintle/ShareItOnPinBot
 ```
 
 ### Executing program
